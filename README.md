@@ -63,6 +63,8 @@ python main.py --action predict --feature_path lmdb_path --test_aug 0
 
 set `--test_aug 1` to use data augmentation for evaluation.
 
+The pre-trained model can be found [here](https://drive.google.com/file/d/1Y_vibCBhq6w3hN8ufi7UAXmkxorxilV7/view?usp=sharing)
+
 
 ## License
 Assembly101 is licensed by us under the Creative Commons Attribution-NonCommerial 4.0 International License, found [here](https://creativecommons.org/licenses/by-nc/4.0/). The terms are :
